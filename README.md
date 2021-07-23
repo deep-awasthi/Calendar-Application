@@ -1,2 +1,1 @@
-# Music-Generation
-ML Project
+# Calendar Application in C
